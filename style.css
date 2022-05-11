@@ -1,5 +1,8 @@
 body {
   background-color: rgb(253, 251, 251);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 1;
 }
 
 #cabecalho {
@@ -11,6 +14,10 @@ body {
   background-color: green;
   padding-bottom: 15px;
   padding-left: 20px;
+}
+
+#titulo {
+  color: white;
 }
 
 #main {
