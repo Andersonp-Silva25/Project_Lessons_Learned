@@ -27,3 +27,18 @@ body {
 .border {
   border: 2px #CCC dashed;
 }
+
+.lado-esquerdo {
+  display: inline-block;
+  max-width: 40%;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.lado-direito {
+  display: inline-block;
+  max-width: 40%;
+  margin-top: 10px;
+  vertical-align: top;
+  margin-left: 10px;
+}
