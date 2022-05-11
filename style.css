@@ -5,4 +5,18 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  background-color: green;
+  padding-bottom: 15px;
+  padding-left: 20px;
+}
+
+#main {
+  margin-top: 130px;
+}
+
+.border {
+  border: 2px #CCC dashed;
 }
